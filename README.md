@@ -14,4 +14,4 @@ An interactive Power BI dashboard for analyzing pizza sales data.
 - Power BI
 - MySQL
 
-## I used SQL to write queries for all KPI values
+ I used SQL to write queries for all KPI values
