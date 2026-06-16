@@ -83,4 +83,3 @@ The objective of this project was to analyze pizza sales data and answer key bus
 
 Himanshi Singh
 
-Aspiring Data Analyst | SQL | Advanced Excel | Power BI | Python
